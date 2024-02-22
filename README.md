@@ -13,6 +13,7 @@ patchutils bc zlib1g-dev libexpat-dev ninja-build git cmake libglib2.0-dev</br>
   >- make</br>
   
 
+![Screenshot from 2024-02-21 16-11-10](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/12661b7c-ebbf-441d-a3b7-49a64834156b)
 
 
 <b></p>2.install Yosys:</p> 
@@ -26,12 +27,15 @@ patchutils bc zlib1g-dev libexpat-dev ninja-build git cmake libglib2.0-dev</br>
 >- sudo make install</br>
 
 
+![Screenshot from 2024-02-21 15-26-40 (2)](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/1d1946f7-0d80-4346-808c-7dc04a0ee1c9)
 
 
 <b></p>3.install iverilog: </p>
 >sudo apt-get install iverilog</br>
 
 
+![Screenshot from 2024-02-21 17-16-20](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/992b7a17-d1ec-4c49-b2be-a1cee3a00731)
 
 <b></p>4.install gtkwave: </p>
 >sudo apt-get install gtkwave</br>
+![Screenshot from 2024-02-21 17-17-20](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/53d9af21-ce20-43c3-8eab-c269dc448602)
