@@ -4,16 +4,13 @@ The C code should undergo the simulation of normal GCC X86 Compiler and riscv co
 
 AS PER THE REQUIREMENT OUTPUT OF GCC (F1) SHOULD BE EQUAL = TO OUTPUT OF RISCV GCC (F2)
 
-![image](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/ee5860c3-2cb8-4103-aa71-9ae8294ad1de)
-
-
+![image](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/03175531-ce8e-4aa3-919e-18abc0818818)
 Step - 1: To Run the code in the normal GCC Compiler To compile the code: gcc sum1ton.c -o sum1ton To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250
 
 Step - 2: To Run the code in the RISC-V GCC Compiler
 
 To compile the code: riscv64-unknown-elf-gcc -o sum1ton sum1ton.c To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250
-![image](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/cc8c3a9b-8384-45f9-ad48-407d6ebf3153)
-![image](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/fa828a41-5ba3-4c54-ab48-efb752ad58a9)
-![image](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/727670e8-f28e-41de-bf48-bb444196d413)
-
+![image](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/d2d09db1-000d-4881-94f2-eea4bc97d6fb)
+![image](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/4831bde7-5b2e-4a4e-9074-570f30ce6fdd)
+![image](https://github.com/IndhumathiMadival/VSDSquadron/assets/160833467/066c85e2-aee4-4a2c-9558-73f0bedb9179)
 
